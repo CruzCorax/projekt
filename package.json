@@ -1,0 +1,16 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "projekt",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "author": "Steffi",
+  "license": "ISC"
+}
